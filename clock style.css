@@ -1,0 +1,13 @@
+*{
+    padding:0%
+    margin: 0%;
+}
+
+.jumbotron{
+    margin-left: 40px;
+    background:aliceblue;
+    padding: 10rem 10rem 10rem  10rem;
+    margin-right: 40px;
+    margin-top: 40px;
+    /* border-color:solid black          */
+}
